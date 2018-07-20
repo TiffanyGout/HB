@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(140, 182, 245);
+}
+
+container {
+    margin-top: 10px;
+    height: 600px;
+    width: 450px;
+}
+
+.imagehb {
+    width: 900px;
+    height: 800px;
+    position: relative;
+}
+
+.jumbotron {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #feffef;
+    border: black dotted 10px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.clic {
+    background-color: #FFA0D5;
+    font-size: 20px;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lastJumbotron {
+    font-family: 'Monoton', cursive;
+    background-color: rgb(226, 175, 169);
+}
+
+.lastBody {
+    background-image: url("tiki.jpg");
+}
+
+#btn2 {
+    display: none;
+}
+
+#btn3 {
+    display: none;
+}
+
+.bodyBackground{
+    background: url(https://media0.giphy.com/media/SRO0ZwmImic0/giphy.gif);
+}
+
+.newBack {
+    background: url(https://media.giphy.com/media/l0Iy4ppWvwQ4SXPxK/giphy.gif);
+}
